@@ -1,7 +1,7 @@
 # load_csv_files_to_postgres 
 # Insert CSV file data into Postgres DB using Python
 
-This repo will give you the tools needed to insert as many csv files as you would automatically using one script into a Postgres DB. It will create a table using the CSV file name and it will insert the data from the CSV file into the table. 
+This repo will give you the tools needed to insert as many csv files as you would automatically into a Postgres DB. It will create a table using the CSV file name and it will insert the data from the CSV file into the table. 
 
 The script will currently drop the table if one already exists with the same name.
 
