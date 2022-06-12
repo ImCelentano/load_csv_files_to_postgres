@@ -36,4 +36,3 @@ file inserted into DB
 Table test_customer imported to db completed
 all tables have been imported into the db
   a)Within your Postgres DB you should also find a table with the name of your CSV file(s) and the contents from the CSV file should have been loaded into the table.
-  
